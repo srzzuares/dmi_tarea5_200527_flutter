@@ -26,12 +26,12 @@ Tarea 6
 | Descripción |Creamos un arreglo de datos y por medio de un boton cambien de imagen e imprima en la pantalla secuencialmente en el orden de las imagenes que agregamos en el arreglo. Se creo desde el inicio de un archivo Dart y creamos difererntes archivos de Dart, uno de main para inicializar la aplicacion y el otro es donde estara el contenido de tipo stateful. Tambien se le implemento un menu donde lanzara a otra pantalla de un GridWies pero sera implementado en otra ocacion|
 | Fecha de Carga | 17/09/23 |
 
-| No. |                     Pruebas                     |
-| :-: | :---------------------------------------------: |
-|  1  |     ![Prueba 1 de inicio a la aplicacion]()     |
-|  2  |   ![Prueba 2 de Tocar el boton primera vez]()   |
-|  3  | ![Prueba 3 de Tocar el boton primera segunda]() |
-|  4  | ![Prueba 4 de Tocar el boton primera tercera]() |
+| No. |                                                                Pruebas                                                                |
+| :-: | :-----------------------------------------------------------------------------------------------------------------------------------: |
+|  1  |     ![Prueba 1 de inicio a la aplicacion](https://github.com/srzzuares/dmi_tarea6_200527_flutter/blob/main/asset/pruebas/p-1.png)     |
+|  2  |   ![Prueba 2 de Tocar el boton primera vez](https://github.com/srzzuares/dmi_tarea6_200527_flutter/blob/main/asset/pruebas/p-2.png)   |
+|  3  | ![Prueba 3 de Tocar el boton primera segunda](https://github.com/srzzuares/dmi_tarea6_200527_flutter/blob/main/asset/pruebas/p-3.png) |
+|  4  |         ![Prueba 4 de Tocar el menu](https://github.com/srzzuares/dmi_tarea6_200527_flutter/blob/main/asset/pruebas/p-4.png)          |
 
 # Tarea6_200527
 
